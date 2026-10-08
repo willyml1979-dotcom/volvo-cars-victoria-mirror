@@ -1,6 +1,6 @@
 {
   "dealership": "Volvo Cars Victoria",
-  "generated_at": "2026-09-26T12:05:07",
+  "generated_at": "2026-10-08T14:53:39",
   "vehicle_count": 48,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
@@ -10,6 +10,7 @@
       "vin": "3VW5T7BUXKM175309",
       "stock": "219441",
       "color": "White",
+      "trim": "35th 2.0T 6sp",
       "url": "https://willyml1979-dotcom.github.io/volvo-cars-victoria-mirror/used/126f6fff73f1.html",
       "source_url": "https://www.volvocarsvictoria.com/vehicles/2019/volkswagen/jetta-gli/victoria/bc/71010906/?sale_class=used",
       "dealer_url": "https://www.volvocarsvictoria.com/vehicles/2019/volkswagen/jetta-gli/victoria/bc/71010906/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -19,14 +20,17 @@
       "odometer_km": 119908,
       "year": 2019,
       "make": "Volkswagen",
-      "model": "Jetta GLI 35th 2.0T 6sp (Offered Until 04.2019)",
-      "condition": "used"
+      "model": "Jetta GLI",
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2019 Volvo XC40 T5 AWD R-Design",
       "vin": "YV4162UMXK2152027",
       "stock": "279791",
       "color": "Blue",
+      "trim": "T5 R-Design",
       "url": "https://willyml1979-dotcom.github.io/volvo-cars-victoria-mirror/used/5fd3f221f588.html",
       "source_url": "https://www.volvocarsvictoria.com/vehicles/2019/volvo/xc40/victoria/bc/70288143/?sale_class=used",
       "dealer_url": "https://www.volvocarsvictoria.com/vehicles/2019/volvo/xc40/victoria/bc/70288143/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -36,14 +40,17 @@
       "odometer_km": 96369,
       "year": 2019,
       "make": "Volvo",
-      "model": "XC40 T5 AWD R-Design",
-      "condition": "used"
+      "model": "XC40",
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2020 Volvo V60 Cross Country T5 AWD",
       "vin": "YV4102WK9L1036337",
       "stock": "226151",
       "color": "Grey",
+      "trim": "Cross Country T5",
       "url": "https://willyml1979-dotcom.github.io/volvo-cars-victoria-mirror/used/3f8b4cb4cdec.html",
       "source_url": "https://www.volvocarsvictoria.com/vehicles/2020/volvo/v60-cross-country/victoria/bc/71169580/?sale_class=used",
       "dealer_url": "https://www.volvocarsvictoria.com/vehicles/2020/volvo/v60-cross-country/victoria/bc/71169580/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -53,14 +60,17 @@
       "odometer_km": 103925,
       "year": 2020,
       "make": "Volvo",
-      "model": "V60 Cross Country T5 AWD",
-      "condition": "used"
+      "model": "V60",
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2021 Audi Q3 45 2.0T Progressiv quattro 8sp Tiptronic",
       "vin": "WA1EECF39M1017819",
       "stock": "208662",
       "color": "Black",
+      "trim": "45 2.0T Progressiv quattro 8sp Tiptronic",
       "url": "https://willyml1979-dotcom.github.io/volvo-cars-victoria-mirror/used/c290a9bb6a89.html",
       "source_url": "https://www.volvocarsvictoria.com/vehicles/2021/audi/q3/victoria/bc/70987714/?sale_class=used",
       "dealer_url": "https://www.volvocarsvictoria.com/vehicles/2021/audi/q3/victoria/bc/70987714/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -70,8 +80,10 @@
       "odometer_km": 40260,
       "year": 2021,
       "make": "Audi",
-      "model": "Q3 45 2.0T Progressiv quattro 8sp Tiptronic",
-      "condition": "used"
+      "model": "Q3",
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2021 Ford F-150 SuperCab 4x4 - Supercab Lariat - 145 WB",
@@ -88,13 +100,16 @@
       "year": 2021,
       "make": "Ford",
       "model": "F-150 SuperCab 4x4 - Supercab Lariat - 145 WB",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2021 Volvo XC90 Recharge T8 eAWD Inscription Expression",
       "vin": "YV4BR0CK9M1720566",
       "stock": "903810",
       "color": "White",
+      "trim": "Recharge T8 eAWD Inscription Expression",
       "url": "https://willyml1979-dotcom.github.io/volvo-cars-victoria-mirror/used/6cce24619d41.html",
       "source_url": "https://www.volvocarsvictoria.com/vehicles/2021/volvo/xc90-recharge/victoria/bc/70217292/?sale_class=used",
       "dealer_url": "https://www.volvocarsvictoria.com/vehicles/2021/volvo/xc90-recharge/victoria/bc/70217292/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -104,8 +119,10 @@
       "odometer_km": 58710,
       "year": 2021,
       "make": "Volvo",
-      "model": "XC90 Recharge T8 eAWD Inscription Expression",
-      "condition": "used"
+      "model": "XC90",
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2025 GMC Sierra 1500 Crew Cab Crew Cab Short Box 4-Wheel Drive AT4",
@@ -122,13 +139,16 @@
       "year": 2025,
       "make": "GMC",
       "model": "Sierra 1500 Crew Cab Crew Cab Short Box 4-Wheel Drive AT4",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2025 Mazda CX-70 PHEV GT AWD",
       "vin": "JM3KJDHA2S1118324",
       "stock": "201961",
       "color": "Brown",
+      "trim": "GT",
       "url": "https://willyml1979-dotcom.github.io/volvo-cars-victoria-mirror/used/059e43eb50f9.html",
       "source_url": "https://www.volvocarsvictoria.com/vehicles/2025/mazda/cx-70-phev/victoria/bc/70908171/?sale_class=used",
       "dealer_url": "https://www.volvocarsvictoria.com/vehicles/2025/mazda/cx-70-phev/victoria/bc/70908171/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -138,14 +158,17 @@
       "odometer_km": 37809,
       "year": 2025,
       "make": "Mazda",
-      "model": "CX-70 PHEV GT AWD",
-      "condition": "used"
+      "model": "CX-70 PHEV",
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Volvo V60 Cross Country B5 AWD Ultra",
       "vin": "YV4L12WL8T2172919",
       "stock": "229190",
       "color": "Black",
+      "trim": "Cross Country B5 Ultra",
       "url": "https://willyml1979-dotcom.github.io/volvo-cars-victoria-mirror/new/278142284419.html",
       "source_url": "https://www.volvocarsvictoria.com/vehicles/2026/volvo/v60-cross-country/victoria/bc/69807975/?sale_class=new",
       "dealer_url": "https://www.volvocarsvictoria.com/vehicles/2026/volvo/v60-cross-country/victoria/bc/69807975/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -155,14 +178,17 @@
       "odometer_km": 7069,
       "year": 2026,
       "make": "Volvo",
-      "model": "V60 Cross Country B5 AWD Ultra",
-      "condition": "new"
+      "model": "V60",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Volvo XC40 B5 AWD Plus Dark Theme",
       "vin": "YV4L12UC1T2678174",
       "stock": "281740",
       "color": "Silver",
+      "trim": "B5 Plus Dark Theme",
       "url": "https://willyml1979-dotcom.github.io/volvo-cars-victoria-mirror/new/484b2228505d.html",
       "source_url": "https://www.volvocarsvictoria.com/vehicles/2026/volvo/xc40/victoria/bc/68608046/?sale_class=new",
       "dealer_url": "https://www.volvocarsvictoria.com/vehicles/2026/volvo/xc40/victoria/bc/68608046/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -172,14 +198,17 @@
       "odometer_km": 5703,
       "year": 2026,
       "make": "Volvo",
-      "model": "XC40 B5 AWD Plus Dark Theme",
-      "condition": "new"
+      "model": "XC40",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Volvo XC40 B5 AWD Plus Dark Theme",
       "vin": "YV4L12UC5T2725819",
       "stock": "258190",
       "color": "White",
+      "trim": "B5 Plus Dark Theme",
       "url": "https://willyml1979-dotcom.github.io/volvo-cars-victoria-mirror/new/9d755823c996.html",
       "source_url": "https://www.volvocarsvictoria.com/vehicles/2026/volvo/xc40/victoria/bc/68689744/?sale_class=new",
       "dealer_url": "https://www.volvocarsvictoria.com/vehicles/2026/volvo/xc40/victoria/bc/68689744/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -189,14 +218,17 @@
       "odometer_km": 6895,
       "year": 2026,
       "make": "Volvo",
-      "model": "XC40 B5 AWD Plus Dark Theme",
-      "condition": "new"
+      "model": "XC40",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Volvo XC40 B5 AWD Plus Dark Theme",
       "vin": "YV4L12UC6T2724971",
       "stock": "249710",
       "color": "Grey",
+      "trim": "B5 Plus Dark Theme",
       "url": "https://willyml1979-dotcom.github.io/volvo-cars-victoria-mirror/new/51f0aa40a7ae.html",
       "source_url": "https://www.volvocarsvictoria.com/vehicles/2026/volvo/xc40/victoria/bc/68738215/?sale_class=new",
       "dealer_url": "https://www.volvocarsvictoria.com/vehicles/2026/volvo/xc40/victoria/bc/68738215/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -206,14 +238,17 @@
       "odometer_km": 35,
       "year": 2026,
       "make": "Volvo",
-      "model": "XC40 B5 AWD Plus Dark Theme",
-      "condition": "new"
+      "model": "XC40",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Volvo XC40 B5 AWD Plus Dark Theme",
       "vin": "YV4L12UC9T2721708",
       "stock": "217080",
       "color": "Silver",
+      "trim": "B5 Plus Dark Theme",
       "url": "https://willyml1979-dotcom.github.io/volvo-cars-victoria-mirror/new/819d979966f9.html",
       "source_url": "https://www.volvocarsvictoria.com/vehicles/2026/volvo/xc40/victoria/bc/68738216/?sale_class=new",
       "dealer_url": "https://www.volvocarsvictoria.com/vehicles/2026/volvo/xc40/victoria/bc/68738216/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -223,14 +258,17 @@
       "odometer_km": 9099,
       "year": 2026,
       "make": "Volvo",
-      "model": "XC40 B5 AWD Plus Dark Theme",
-      "condition": "new"
+      "model": "XC40",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Volvo XC40 B5 AWD Core Dark Theme",
       "vin": "YV4L12UK1T2730166",
       "stock": "201660",
       "color": "White",
+      "trim": "B5 Core Dark Theme",
       "url": "https://willyml1979-dotcom.github.io/volvo-cars-victoria-mirror/new/2834e0fd84c6.html",
       "source_url": "https://www.volvocarsvictoria.com/vehicles/2026/volvo/xc40/victoria/bc/68909305/?sale_class=new",
       "dealer_url": "https://www.volvocarsvictoria.com/vehicles/2026/volvo/xc40/victoria/bc/68909305/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -240,14 +278,17 @@
       "odometer_km": 6557,
       "year": 2026,
       "make": "Volvo",
-      "model": "XC40 B5 AWD Core Dark Theme",
-      "condition": "new"
+      "model": "XC40",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Volvo XC40 B5 AWD Plus Dark Theme",
       "vin": "YV4L12UC5T2753958",
       "stock": "239580",
       "color": "Green",
+      "trim": "B5 Plus Dark Theme",
       "url": "https://willyml1979-dotcom.github.io/volvo-cars-victoria-mirror/new/b94dc23c8dbc.html",
       "source_url": "https://www.volvocarsvictoria.com/vehicles/2026/volvo/xc40/victoria/bc/69348006/?sale_class=new",
       "dealer_url": "https://www.volvocarsvictoria.com/vehicles/2026/volvo/xc40/victoria/bc/69348006/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -257,14 +298,17 @@
       "odometer_km": 35,
       "year": 2026,
       "make": "Volvo",
-      "model": "XC40 B5 AWD Plus Dark Theme",
-      "condition": "new"
+      "model": "XC40",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Volvo XC40 B5 AWD Plus Dark Theme",
       "vin": "YV4L12UC6T2806585",
       "stock": "265850",
       "color": "Blue",
+      "trim": "B5 Plus Dark Theme",
       "url": "https://willyml1979-dotcom.github.io/volvo-cars-victoria-mirror/new/78e4e41ba58e.html",
       "source_url": "https://www.volvocarsvictoria.com/vehicles/2026/volvo/xc40/victoria/bc/70449876/?sale_class=new",
       "dealer_url": "https://www.volvocarsvictoria.com/vehicles/2026/volvo/xc40/victoria/bc/70449876/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -274,14 +318,17 @@
       "odometer_km": 25,
       "year": 2026,
       "make": "Volvo",
-      "model": "XC40 B5 AWD Plus Dark Theme",
-      "condition": "new"
+      "model": "XC40",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Volvo XC40 B5 AWD Plus Dark Theme",
       "vin": "YV4L12UC5T2820039",
       "stock": "200390",
       "color": "Grey",
+      "trim": "B5 Plus Dark Theme",
       "url": "https://willyml1979-dotcom.github.io/volvo-cars-victoria-mirror/new/52eac244a3cd.html",
       "source_url": "https://www.volvocarsvictoria.com/vehicles/2026/volvo/xc40/victoria/bc/70543033/?sale_class=new",
       "dealer_url": "https://www.volvocarsvictoria.com/vehicles/2026/volvo/xc40/victoria/bc/70543033/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -291,14 +338,17 @@
       "odometer_km": 25,
       "year": 2026,
       "make": "Volvo",
-      "model": "XC40 B5 AWD Plus Dark Theme",
-      "condition": "new"
+      "model": "XC40",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Volvo XC40 B5 AWD Ultra Dark Theme",
       "vin": "YV4L12UM8T2853707",
       "stock": "237070",
       "color": "Black",
+      "trim": "B5 Ultra Dark Theme",
       "url": "https://willyml1979-dotcom.github.io/volvo-cars-victoria-mirror/new/04283497c746.html",
       "source_url": "https://www.volvocarsvictoria.com/vehicles/2026/volvo/xc40/victoria/bc/70627027/?sale_class=new",
       "dealer_url": "https://www.volvocarsvictoria.com/vehicles/2026/volvo/xc40/victoria/bc/70627027/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -308,14 +358,17 @@
       "odometer_km": 35,
       "year": 2026,
       "make": "Volvo",
-      "model": "XC40 B5 AWD Ultra Dark Theme",
-      "condition": "new"
+      "model": "XC40",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Volvo XC40 B5 AWD Ultra Dark Theme",
       "vin": "YV4L12UM5T2765231",
       "stock": "252310",
       "color": "Blue",
+      "trim": "B5 Ultra Dark Theme",
       "url": "https://willyml1979-dotcom.github.io/volvo-cars-victoria-mirror/new/5da6020d69e5.html",
       "source_url": "https://www.volvocarsvictoria.com/vehicles/2026/volvo/xc40/victoria/bc/70846354/?sale_class=new",
       "dealer_url": "https://www.volvocarsvictoria.com/vehicles/2026/volvo/xc40/victoria/bc/70846354/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -325,14 +378,17 @@
       "odometer_km": 25,
       "year": 2026,
       "make": "Volvo",
-      "model": "XC40 B5 AWD Ultra Dark Theme",
-      "condition": "new"
+      "model": "XC40",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Volvo XC40 B5 AWD Plus Dark Theme",
       "vin": "YV4L12UC1T2726241",
       "stock": "262410",
       "color": "Grey",
+      "trim": "B5 Plus Dark Theme",
       "url": "https://willyml1979-dotcom.github.io/volvo-cars-victoria-mirror/new/afdf0ee6e3e8.html",
       "source_url": "https://www.volvocarsvictoria.com/vehicles/2026/volvo/xc40/victoria/bc/70987863/?sale_class=new",
       "dealer_url": "https://www.volvocarsvictoria.com/vehicles/2026/volvo/xc40/victoria/bc/70987863/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -342,14 +398,17 @@
       "odometer_km": 35,
       "year": 2026,
       "make": "Volvo",
-      "model": "XC40 B5 AWD Plus Dark Theme",
-      "condition": "new"
+      "model": "XC40",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Volvo XC60 B5 AWD Ultra Dark Theme",
       "vin": "YV4M12RM1T1472302",
       "stock": "223020",
       "color": "Silver",
+      "trim": "B5 Ultra Dark Theme",
       "url": "https://willyml1979-dotcom.github.io/volvo-cars-victoria-mirror/new/ece43949d09c.html",
       "source_url": "https://www.volvocarsvictoria.com/vehicles/2026/volvo/xc60/victoria/bc/70230290/?sale_class=new",
       "dealer_url": "https://www.volvocarsvictoria.com/vehicles/2026/volvo/xc60/victoria/bc/70230290/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -359,14 +418,17 @@
       "odometer_km": 125,
       "year": 2026,
       "make": "Volvo",
-      "model": "XC60 B5 AWD Ultra Dark Theme",
-      "condition": "new"
+      "model": "XC60",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Volvo XC60 B5 AWD Plus Dark Theme",
       "vin": "YV4M12RC5T1488929",
       "stock": "28929X",
       "color": "White",
+      "trim": "B5 Plus Dark Theme",
       "url": "https://willyml1979-dotcom.github.io/volvo-cars-victoria-mirror/new/942bdecfa4a2.html",
       "source_url": "https://www.volvocarsvictoria.com/vehicles/2026/volvo/xc60/victoria/bc/70846355/?sale_class=new",
       "dealer_url": "https://www.volvocarsvictoria.com/vehicles/2026/volvo/xc60/victoria/bc/70846355/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -376,14 +438,17 @@
       "odometer_km": 53,
       "year": 2026,
       "make": "Volvo",
-      "model": "XC60 B5 AWD Plus Dark Theme",
-      "condition": "new"
+      "model": "XC60",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Volvo XC90 Plug-in Hybrid T8 AWD Plus Bright Theme 7-Seater",
       "vin": "YV4H60PE0T1452433",
       "stock": "224330",
       "color": "Silver",
+      "trim": "T8 Plus Bright Theme 7-Seater",
       "url": "https://willyml1979-dotcom.github.io/volvo-cars-victoria-mirror/new/5e4c64390068.html",
       "source_url": "https://www.volvocarsvictoria.com/vehicles/2026/volvo/xc90-plug-in-hybrid/victoria/bc/68180220/?sale_class=new",
       "dealer_url": "https://www.volvocarsvictoria.com/vehicles/2026/volvo/xc90-plug-in-hybrid/victoria/bc/68180220/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -393,14 +458,17 @@
       "odometer_km": 2468,
       "year": 2026,
       "make": "Volvo",
-      "model": "XC90 Plug-in Hybrid T8 AWD Plus Bright Theme 7-Seater",
-      "condition": "new"
+      "model": "XC90 Plug-In Hybrid",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Volvo XC90 Plug-in Hybrid T8 AWD Plus Dark Theme 7-Seater",
       "vin": "YV4H60PC7T1452900",
       "stock": "229000",
       "color": "Black",
+      "trim": "T8 Plus Dark Theme 7-Seater",
       "url": "https://willyml1979-dotcom.github.io/volvo-cars-victoria-mirror/new/f1f56d156c14.html",
       "source_url": "https://www.volvocarsvictoria.com/vehicles/2026/volvo/xc90-plug-in-hybrid/victoria/bc/68192480/?sale_class=new",
       "dealer_url": "https://www.volvocarsvictoria.com/vehicles/2026/volvo/xc90-plug-in-hybrid/victoria/bc/68192480/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -410,14 +478,17 @@
       "odometer_km": 250,
       "year": 2026,
       "make": "Volvo",
-      "model": "XC90 Plug-in Hybrid T8 AWD Plus Dark Theme 7-Seater",
-      "condition": "new"
+      "model": "XC90 Plug-In Hybrid",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Volvo XC90 Plug-in Hybrid T8 AWD Ultra Dark Theme 7-Seater",
       "vin": "YV4H60PM4T1471249",
       "stock": "212490",
       "color": "Grey",
+      "trim": "T8 Ultra Dark Theme 7-Seater",
       "url": "https://willyml1979-dotcom.github.io/volvo-cars-victoria-mirror/new/817b3e8ba9c5.html",
       "source_url": "https://www.volvocarsvictoria.com/vehicles/2026/volvo/xc90-plug-in-hybrid/victoria/bc/70426661/?sale_class=new",
       "dealer_url": "https://www.volvocarsvictoria.com/vehicles/2026/volvo/xc90-plug-in-hybrid/victoria/bc/70426661/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -427,14 +498,17 @@
       "odometer_km": 113,
       "year": 2026,
       "make": "Volvo",
-      "model": "XC90 Plug-in Hybrid T8 AWD Ultra Dark Theme 7-Seater",
-      "condition": "new"
+      "model": "XC90 Plug-In Hybrid",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Volvo XC90 B6 AWD Ultra Dark Theme 7-Seater",
       "vin": "YV4062PM5T1500041",
       "stock": "200410",
       "color": "Red",
+      "trim": "B6 Ultra Dark Theme 7-Seater",
       "url": "https://willyml1979-dotcom.github.io/volvo-cars-victoria-mirror/new/be3f702312d7.html",
       "source_url": "https://www.volvocarsvictoria.com/vehicles/2026/volvo/xc90/victoria/bc/69579145/?sale_class=new",
       "dealer_url": "https://www.volvocarsvictoria.com/vehicles/2026/volvo/xc90/victoria/bc/69579145/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -444,14 +518,17 @@
       "odometer_km": 225,
       "year": 2026,
       "make": "Volvo",
-      "model": "XC90 B6 AWD Ultra Dark Theme 7-Seater",
-      "condition": "new"
+      "model": "XC90",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Volvo XC90 B6 AWD Ultra Dark Theme 7-Seater",
       "vin": "YV4062PM5T1530849",
       "stock": "208490",
       "color": "Blue",
+      "trim": "B6 Ultra Dark Theme 7-Seater",
       "url": "https://willyml1979-dotcom.github.io/volvo-cars-victoria-mirror/new/eb958f7e32f5.html",
       "source_url": "https://www.volvocarsvictoria.com/vehicles/2026/volvo/xc90/victoria/bc/70513993/?sale_class=new",
       "dealer_url": "https://www.volvocarsvictoria.com/vehicles/2026/volvo/xc90/victoria/bc/70513993/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -461,14 +538,17 @@
       "odometer_km": 25,
       "year": 2026,
       "make": "Volvo",
-      "model": "XC90 B6 AWD Ultra Dark Theme 7-Seater",
-      "condition": "new"
+      "model": "XC90",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Volvo XC90 B6 AWD Ultra Dark Theme 7-Seater",
       "vin": "YV4062PM7T1505502",
       "stock": "255020",
       "color": "Blue",
+      "trim": "B6 Ultra Dark Theme 7-Seater",
       "url": "https://willyml1979-dotcom.github.io/volvo-cars-victoria-mirror/new/6f2586310557.html",
       "source_url": "https://www.volvocarsvictoria.com/vehicles/2026/volvo/xc90/victoria/bc/70791346/?sale_class=new",
       "dealer_url": "https://www.volvocarsvictoria.com/vehicles/2026/volvo/xc90/victoria/bc/70791346/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -478,14 +558,17 @@
       "odometer_km": 85,
       "year": 2026,
       "make": "Volvo",
-      "model": "XC90 B6 AWD Ultra Dark Theme 7-Seater",
-      "condition": "new"
+      "model": "XC90",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Volvo XC90 B6 AWD Ultra Bright Theme 6-Seater",
       "vin": "YV4062JF6T1454679",
       "stock": "246790",
       "color": "Grey",
+      "trim": "B6 Ultra Bright Theme 6-Seater",
       "url": "https://willyml1979-dotcom.github.io/volvo-cars-victoria-mirror/new/daf878e8671c.html",
       "source_url": "https://www.volvocarsvictoria.com/vehicles/2026/volvo/xc90/victoria/bc/71272961/?sale_class=new",
       "dealer_url": "https://www.volvocarsvictoria.com/vehicles/2026/volvo/xc90/victoria/bc/71272961/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -495,8 +578,10 @@
       "odometer_km": 109,
       "year": 2026,
       "make": "Volvo",
-      "model": "XC90 B6 AWD Ultra Bright Theme 6-Seater",
-      "condition": "new"
+      "model": "XC90",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2027 Volvo EX60 Twin Motor AWD Ultra",
@@ -513,13 +598,16 @@
       "year": 2027,
       "make": "Volvo",
       "model": "EX60 Twin Motor AWD Ultra",
-      "condition": "new"
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2027 Volvo XC60 Plug-in Hybrid T8 AWD Ultra Dark Theme",
       "vin": "YV4HD0RM3V1550496",
       "stock": "204960",
       "color": "Black",
+      "trim": "T8 Ultra Dark Theme",
       "url": "https://willyml1979-dotcom.github.io/volvo-cars-victoria-mirror/new/52d7530034f4.html",
       "source_url": "https://www.volvocarsvictoria.com/vehicles/2027/volvo/xc60-plug-in-hybrid/victoria/bc/71221575/?sale_class=new",
       "dealer_url": "https://www.volvocarsvictoria.com/vehicles/2027/volvo/xc60-plug-in-hybrid/victoria/bc/71221575/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -529,14 +617,17 @@
       "odometer_km": 25,
       "year": 2027,
       "make": "Volvo",
-      "model": "XC60 Plug-in Hybrid T8 AWD Ultra Dark Theme",
-      "condition": "new"
+      "model": "XC60 Plug-In Hybrid",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2027 Volvo XC60 Plug-in Hybrid T8 AWD Ultra Dark Theme",
       "vin": "YV4HD0RM1V1530442",
       "stock": "204420",
       "color": "Green",
+      "trim": "T8 Ultra Dark Theme",
       "url": "https://willyml1979-dotcom.github.io/volvo-cars-victoria-mirror/new/482259b5f533.html",
       "source_url": "https://www.volvocarsvictoria.com/vehicles/2027/volvo/xc60-plug-in-hybrid/victoria/bc/71272963/?sale_class=new",
       "dealer_url": "https://www.volvocarsvictoria.com/vehicles/2027/volvo/xc60-plug-in-hybrid/victoria/bc/71272963/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -546,14 +637,17 @@
       "odometer_km": 25,
       "year": 2027,
       "make": "Volvo",
-      "model": "XC60 Plug-in Hybrid T8 AWD Ultra Dark Theme",
-      "condition": "new"
+      "model": "XC60 Plug-In Hybrid",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2027 Volvo XC60 Plug-in Hybrid T8 AWD Ultra Dark Theme",
       "vin": "YV4HD0RMXV1550544",
       "stock": "205440",
       "color": "Blue",
+      "trim": "T8 Ultra Dark Theme",
       "url": "https://willyml1979-dotcom.github.io/volvo-cars-victoria-mirror/new/62d4c7592f73.html",
       "source_url": "https://www.volvocarsvictoria.com/vehicles/2027/volvo/xc60-plug-in-hybrid/victoria/bc/71374348/?sale_class=new",
       "dealer_url": "https://www.volvocarsvictoria.com/vehicles/2027/volvo/xc60-plug-in-hybrid/victoria/bc/71374348/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -563,14 +657,17 @@
       "odometer_km": 25,
       "year": 2027,
       "make": "Volvo",
-      "model": "XC60 Plug-in Hybrid T8 AWD Ultra Dark Theme",
-      "condition": "new"
+      "model": "XC60 Plug-In Hybrid",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2027 Volvo XC60 Plug-in Hybrid T8 AWD Ultra Dark Theme",
       "vin": "YV4HD0RM7V1566393",
       "stock": "263930",
       "color": "Red",
+      "trim": "T8 Ultra Dark Theme",
       "url": "https://willyml1979-dotcom.github.io/volvo-cars-victoria-mirror/new/e2d3440c4f7f.html",
       "source_url": "https://www.volvocarsvictoria.com/vehicles/2027/volvo/xc60-plug-in-hybrid/victoria/bc/71374353/?sale_class=new",
       "dealer_url": "https://www.volvocarsvictoria.com/vehicles/2027/volvo/xc60-plug-in-hybrid/victoria/bc/71374353/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -580,14 +677,17 @@
       "odometer_km": 25,
       "year": 2027,
       "make": "Volvo",
-      "model": "XC60 Plug-in Hybrid T8 AWD Ultra Dark Theme",
-      "condition": "new"
+      "model": "XC60 Plug-In Hybrid",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2027 Volvo XC60 Plug-in Hybrid T8 AWD Ultra Dark Theme",
       "vin": "YV4HD0RM2V1563790",
       "stock": "237900",
       "color": "Blue",
+      "trim": "T8 Ultra Dark Theme",
       "url": "https://willyml1979-dotcom.github.io/volvo-cars-victoria-mirror/new/db3dbace4154.html",
       "source_url": "https://www.volvocarsvictoria.com/vehicles/2027/volvo/xc60-plug-in-hybrid/victoria/bc/71374355/?sale_class=new",
       "dealer_url": "https://www.volvocarsvictoria.com/vehicles/2027/volvo/xc60-plug-in-hybrid/victoria/bc/71374355/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -597,14 +697,17 @@
       "odometer_km": 25,
       "year": 2027,
       "make": "Volvo",
-      "model": "XC60 Plug-in Hybrid T8 AWD Ultra Dark Theme",
-      "condition": "new"
+      "model": "XC60 Plug-In Hybrid",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2027 Volvo XC60 Plug-in Hybrid T8 AWD Ultra Dark Theme",
       "vin": "YV4HD0RM6V1541131",
       "stock": "211310",
       "color": "Green",
+      "trim": "T8 Ultra Dark Theme",
       "url": "https://willyml1979-dotcom.github.io/volvo-cars-victoria-mirror/new/f83e8eb7089a.html",
       "source_url": "https://www.volvocarsvictoria.com/vehicles/2027/volvo/xc60-plug-in-hybrid/victoria/bc/71374359/?sale_class=new",
       "dealer_url": "https://www.volvocarsvictoria.com/vehicles/2027/volvo/xc60-plug-in-hybrid/victoria/bc/71374359/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -614,14 +717,17 @@
       "odometer_km": 25,
       "year": 2027,
       "make": "Volvo",
-      "model": "XC60 Plug-in Hybrid T8 AWD Ultra Dark Theme",
-      "condition": "new"
+      "model": "XC60 Plug-In Hybrid",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2027 Volvo XC60 Plug-in Hybrid T8 AWD Ultra Dark Theme",
       "vin": "YV4HD0RM4V1554346",
       "stock": "243460",
       "color": "White",
+      "trim": "T8 Ultra Dark Theme",
       "url": "https://willyml1979-dotcom.github.io/volvo-cars-victoria-mirror/new/e6c2d74ec519.html",
       "source_url": "https://www.volvocarsvictoria.com/vehicles/2027/volvo/xc60-plug-in-hybrid/victoria/bc/71374360/?sale_class=new",
       "dealer_url": "https://www.volvocarsvictoria.com/vehicles/2027/volvo/xc60-plug-in-hybrid/victoria/bc/71374360/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -631,14 +737,17 @@
       "odometer_km": 25,
       "year": 2027,
       "make": "Volvo",
-      "model": "XC60 Plug-in Hybrid T8 AWD Ultra Dark Theme",
-      "condition": "new"
+      "model": "XC60 Plug-In Hybrid",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2027 Volvo XC60 Plug-in Hybrid T8 AWD Ultra Dark Theme",
       "vin": "YV4HD0RM1V1544504",
       "stock": "245040",
       "color": "Green",
+      "trim": "T8 Ultra Dark Theme",
       "url": "https://willyml1979-dotcom.github.io/volvo-cars-victoria-mirror/new/53ff4ae73cab.html",
       "source_url": "https://www.volvocarsvictoria.com/vehicles/2027/volvo/xc60-plug-in-hybrid/victoria/bc/71374361/?sale_class=new",
       "dealer_url": "https://www.volvocarsvictoria.com/vehicles/2027/volvo/xc60-plug-in-hybrid/victoria/bc/71374361/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -648,14 +757,17 @@
       "odometer_km": 25,
       "year": 2027,
       "make": "Volvo",
-      "model": "XC60 Plug-in Hybrid T8 AWD Ultra Dark Theme",
-      "condition": "new"
+      "model": "XC60 Plug-In Hybrid",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2027 Volvo XC60 B5 AWD Plus Dark Theme",
       "vin": "YV4M22RC2V1530263",
       "stock": "202630",
       "color": "Blue",
+      "trim": "B5 Plus Dark Theme",
       "url": "https://willyml1979-dotcom.github.io/volvo-cars-victoria-mirror/new/1fd72f48f35d.html",
       "source_url": "https://www.volvocarsvictoria.com/vehicles/2027/volvo/xc60/victoria/bc/70987859/?sale_class=new",
       "dealer_url": "https://www.volvocarsvictoria.com/vehicles/2027/volvo/xc60/victoria/bc/70987859/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -665,14 +777,17 @@
       "odometer_km": 25,
       "year": 2027,
       "make": "Volvo",
-      "model": "XC60 B5 AWD Plus Dark Theme",
-      "condition": "new"
+      "model": "XC60",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2027 Volvo XC60 B5 AWD Core Dark Theme",
       "vin": "YV4M22RJ1V1536747",
       "stock": "267470",
       "color": "Blue",
+      "trim": "B5 Core Dark Theme",
       "url": "https://willyml1979-dotcom.github.io/volvo-cars-victoria-mirror/new/1b156aefe8b8.html",
       "source_url": "https://www.volvocarsvictoria.com/vehicles/2027/volvo/xc60/victoria/bc/70987860/?sale_class=new",
       "dealer_url": "https://www.volvocarsvictoria.com/vehicles/2027/volvo/xc60/victoria/bc/70987860/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -682,14 +797,17 @@
       "odometer_km": 25,
       "year": 2027,
       "make": "Volvo",
-      "model": "XC60 B5 AWD Core Dark Theme",
-      "condition": "new"
+      "model": "XC60",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2027 Volvo XC60 B5 AWD Ultra Dark Theme",
       "vin": "YV4M22RM7V1535712",
       "stock": "257120",
       "color": "Blue",
+      "trim": "B5 Ultra Dark Theme",
       "url": "https://willyml1979-dotcom.github.io/volvo-cars-victoria-mirror/new/1a3b6c3650cf.html",
       "source_url": "https://www.volvocarsvictoria.com/vehicles/2027/volvo/xc60/victoria/bc/70987861/?sale_class=new",
       "dealer_url": "https://www.volvocarsvictoria.com/vehicles/2027/volvo/xc60/victoria/bc/70987861/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -699,14 +817,17 @@
       "odometer_km": 25,
       "year": 2027,
       "make": "Volvo",
-      "model": "XC60 B5 AWD Ultra Dark Theme",
-      "condition": "new"
+      "model": "XC60",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2027 Volvo XC60 B5 AWD Plus Dark Theme",
       "vin": "YV4M22RC3V1540669",
       "stock": "206690",
       "color": "Grey",
+      "trim": "B5 Plus Dark Theme",
       "url": "https://willyml1979-dotcom.github.io/volvo-cars-victoria-mirror/new/9b65ab252afb.html",
       "source_url": "https://www.volvocarsvictoria.com/vehicles/2027/volvo/xc60/victoria/bc/70987862/?sale_class=new",
       "dealer_url": "https://www.volvocarsvictoria.com/vehicles/2027/volvo/xc60/victoria/bc/70987862/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -716,14 +837,17 @@
       "odometer_km": 25,
       "year": 2027,
       "make": "Volvo",
-      "model": "XC60 B5 AWD Plus Dark Theme",
-      "condition": "new"
+      "model": "XC60",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2027 Volvo XC60 B5 AWD Ultra Dark Theme",
       "vin": "YV4M22RM9V1540782",
       "stock": "207820",
       "color": "Blue",
+      "trim": "B5 Ultra Dark Theme",
       "url": "https://willyml1979-dotcom.github.io/volvo-cars-victoria-mirror/new/3a8294eed733.html",
       "source_url": "https://www.volvocarsvictoria.com/vehicles/2027/volvo/xc60/victoria/bc/70987864/?sale_class=new",
       "dealer_url": "https://www.volvocarsvictoria.com/vehicles/2027/volvo/xc60/victoria/bc/70987864/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -733,14 +857,17 @@
       "odometer_km": 25,
       "year": 2027,
       "make": "Volvo",
-      "model": "XC60 B5 AWD Ultra Dark Theme",
-      "condition": "new"
+      "model": "XC60",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2027 Volvo XC60 B5 AWD Plus Dark Theme",
       "vin": "YV4M22RCXV1570462",
       "stock": "204620",
       "color": "Green",
+      "trim": "B5 Plus Dark Theme",
       "url": "https://willyml1979-dotcom.github.io/volvo-cars-victoria-mirror/new/efe6a8318c6a.html",
       "source_url": "https://www.volvocarsvictoria.com/vehicles/2027/volvo/xc60/victoria/bc/71409710/?sale_class=new",
       "dealer_url": "https://www.volvocarsvictoria.com/vehicles/2027/volvo/xc60/victoria/bc/71409710/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -750,14 +877,17 @@
       "odometer_km": 25,
       "year": 2027,
       "make": "Volvo",
-      "model": "XC60 B5 AWD Plus Dark Theme",
-      "condition": "new"
+      "model": "XC60",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2027 Volvo XC90 Plug-in Hybrid T8 AWD Ultra Dark Theme 7-Seater",
       "vin": "YV4HD0PM1V1570894",
       "stock": "208940",
       "color": "Green",
+      "trim": "T8 Ultra Dark Theme 7-Seater",
       "url": "https://willyml1979-dotcom.github.io/volvo-cars-victoria-mirror/new/c59a5346bd61.html",
       "source_url": "https://www.volvocarsvictoria.com/vehicles/2027/volvo/xc90-plug-in-hybrid/victoria/bc/71374344/?sale_class=new",
       "dealer_url": "https://www.volvocarsvictoria.com/vehicles/2027/volvo/xc90-plug-in-hybrid/victoria/bc/71374344/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -767,14 +897,17 @@
       "odometer_km": 25,
       "year": 2027,
       "make": "Volvo",
-      "model": "XC90 Plug-in Hybrid T8 AWD Ultra Dark Theme 7-Seater",
-      "condition": "new"
+      "model": "XC90 Plug-In Hybrid",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2027 Volvo XC90 Plug-in Hybrid T8 AWD Ultra Black Edition 7 Seater",
       "vin": "YV4HD0PD9V1570836",
       "stock": "208360",
       "color": "Black",
+      "trim": "T8 Ultra Black Edition 7 Seater",
       "url": "https://willyml1979-dotcom.github.io/volvo-cars-victoria-mirror/new/609d456d6608.html",
       "source_url": "https://www.volvocarsvictoria.com/vehicles/2027/volvo/xc90-plug-in-hybrid/victoria/bc/71374347/?sale_class=new",
       "dealer_url": "https://www.volvocarsvictoria.com/vehicles/2027/volvo/xc90-plug-in-hybrid/victoria/bc/71374347/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -784,14 +917,17 @@
       "odometer_km": 25,
       "year": 2027,
       "make": "Volvo",
-      "model": "XC90 Plug-in Hybrid T8 AWD Ultra Black Edition 7 Seater",
-      "condition": "new"
+      "model": "XC90 Plug-In Hybrid",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2027 Volvo XC90 Plug-in Hybrid T8 AWD Ultra Dark Theme 7-Seater",
       "vin": "YV4HD0PM2V1562108",
       "stock": "221080",
       "color": "Grey",
+      "trim": "T8 Ultra Dark Theme 7-Seater",
       "url": "https://willyml1979-dotcom.github.io/volvo-cars-victoria-mirror/new/adf7fbd900f7.html",
       "source_url": "https://www.volvocarsvictoria.com/vehicles/2027/volvo/xc90-plug-in-hybrid/victoria/bc/71374351/?sale_class=new",
       "dealer_url": "https://www.volvocarsvictoria.com/vehicles/2027/volvo/xc90-plug-in-hybrid/victoria/bc/71374351/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -801,14 +937,17 @@
       "odometer_km": 25,
       "year": 2027,
       "make": "Volvo",
-      "model": "XC90 Plug-in Hybrid T8 AWD Ultra Dark Theme 7-Seater",
-      "condition": "new"
+      "model": "XC90 Plug-In Hybrid",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2027 Volvo XC90 Plug-in Hybrid T8 AWD Ultra Black Edition 7 Seater",
       "vin": "YV4HD0PD2V1571066",
       "stock": "21066Y",
       "color": "White",
+      "trim": "T8 Ultra Black Edition 7 Seater",
       "url": "https://willyml1979-dotcom.github.io/volvo-cars-victoria-mirror/new/97de3836bdc5.html",
       "source_url": "https://www.volvocarsvictoria.com/vehicles/2027/volvo/xc90-plug-in-hybrid/victoria/bc/71374362/?sale_class=new",
       "dealer_url": "https://www.volvocarsvictoria.com/vehicles/2027/volvo/xc90-plug-in-hybrid/victoria/bc/71374362/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -818,8 +957,10 @@
       "odometer_km": 25,
       "year": 2027,
       "make": "Volvo",
-      "model": "XC90 Plug-in Hybrid T8 AWD Ultra Black Edition 7 Seater",
-      "condition": "new"
+      "model": "XC90 Plug-In Hybrid",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     }
   ]
 }
