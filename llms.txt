@@ -3,7 +3,7 @@
 > Volvo Cars Victoria is a  dealership in Victoria. This mirror provides AI-readable access to current inventory and dealership information, kept in sync with the dealership's own website.
 
 ## Inventory
-- [Used vehicles](https://willyml1979-dotcom.github.io/volvo-cars-victoria-mirror/used/): 79 vehicles, updated regularly
+- [Used vehicles](https://willyml1979-dotcom.github.io/volvo-cars-victoria-mirror/used/): 70 vehicles, updated regularly
 - [Inventory feed](https://willyml1979-dotcom.github.io/volvo-cars-victoria-mirror/inventory.json): structured JSON, all vehicles with VIN, price, mileage and availability
 
 ## Resources
