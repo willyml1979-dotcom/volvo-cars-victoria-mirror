@@ -1,6 +1,6 @@
 {
   "dealership": "Volvo Cars Victoria",
-  "generated_at": "2026-10-19T02:03:19",
+  "generated_at": "2026-10-19T12:23:21",
   "vehicle_count": 70,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
@@ -93,7 +93,7 @@
       "url": "https://willyml1979-dotcom.github.io/volvo-cars-victoria-mirror/used/0a12e0ebc462.html",
       "source_url": "https://www.volvocarsvictoria.com/vehicles/2021/ford/f-150/victoria/bc/71395636/?sale_class=used",
       "dealer_url": "https://www.volvocarsvictoria.com/vehicles/2021/ford/f-150/victoria/bc/71395636/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-19T01:48:41",
+      "last_verified": "2026-10-19T12:22:11",
       "price": 48994.0,
       "price_currency": "CAD",
       "odometer_km": 55925,
