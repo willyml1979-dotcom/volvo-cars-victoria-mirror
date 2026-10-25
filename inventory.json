@@ -1,7 +1,7 @@
 {
   "dealership": "Volvo Cars Victoria",
-  "generated_at": "2026-10-25T14:35:56",
-  "vehicle_count": 72,
+  "generated_at": "2026-10-25T14:52:52",
+  "vehicle_count": 71,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -135,17 +135,6 @@
       "model": "EX40 Twin Motor AWD Plus",
       "condition": "new",
       "price": 71117.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Volvo EX40 Twin Motor AWD Plus",
-      "vin": "YV4ER3HK4T2683040",
-      "url": "https://willyml1979-dotcom.github.io/volvo-cars-victoria-mirror/new/34acf2e37995.html",
-      "year": 2026,
-      "make": "Volvo",
-      "model": "EX40 Twin Motor AWD Plus",
-      "condition": "new",
-      "price": 71097.0,
       "price_currency": "CAD"
     },
     {
@@ -546,17 +535,6 @@
     },
     {
       "name": "2027 Volvo XC60 Plug-in Hybrid T8 AWD Ultra Dark Theme",
-      "vin": "YV4HD0RM7V1547021",
-      "url": "https://willyml1979-dotcom.github.io/volvo-cars-victoria-mirror/new/6f2cb7f41211.html",
-      "year": 2027,
-      "make": "Volvo",
-      "model": "XC60 Plug-In Hybrid",
-      "condition": "new",
-      "price": 96492.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 Volvo XC60 Plug-in Hybrid T8 AWD Ultra Dark Theme",
       "vin": "YV4HD0RM1V1566373",
       "url": "https://willyml1979-dotcom.github.io/volvo-cars-victoria-mirror/new/316e8fb9395d.html",
       "year": 2027,
@@ -795,6 +773,17 @@
       "model": "XC90 Plug-In Hybrid",
       "condition": "new",
       "price": 105745.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Volvo XC90 Plug-in Hybrid T8 AWD Ultra Dark Theme 7-Seater",
+      "vin": "YV4HD0PM3V1579404",
+      "url": "https://willyml1979-dotcom.github.io/volvo-cars-victoria-mirror/new/33cc99cf8860.html",
+      "year": 2027,
+      "make": "Volvo",
+      "model": "XC90 Plug-In Hybrid",
+      "condition": "new",
+      "price": 101143.0,
       "price_currency": "CAD"
     }
   ]
