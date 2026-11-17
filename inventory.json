@@ -1,41 +1,63 @@
 {
   "dealership": "Volvo Cars Victoria",
-  "generated_at": "2026-10-26T08:54:37",
-  "vehicle_count": 71,
+  "generated_at": "2026-11-17T10:24:33",
+  "vehicle_count": 77,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
     {
-      "name": "2017 Volvo XC60 T6 Drive-E AWD R-Design",
-      "vin": "YV449MRP3H2120130",
-      "url": "https://willyml1979-dotcom.github.io/volvo-cars-victoria-mirror/used/25e4c56e6e24.html",
-      "year": 2017,
-      "make": "Volvo",
-      "model": "XC60",
+      "name": "2011 Nissan Pathfinder S AWD at",
+      "vin": "5N1AR1NB2BC605743",
+      "url": "https://willyml1979-dotcom.github.io/volvo-cars-victoria-mirror/used/1bd4cfd219a0.html",
+      "year": 2011,
+      "make": "Nissan",
+      "model": "Pathfinder",
       "condition": "used",
-      "price": 21994.0,
+      "price": 14495.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2019 Volvo XC40 T5 AWD R-Design",
-      "vin": "YV4162UMXK2152027",
-      "url": "https://willyml1979-dotcom.github.io/volvo-cars-victoria-mirror/used/5fd3f221f588.html",
-      "year": 2019,
-      "make": "Volvo",
-      "model": "XC40",
+      "name": "2013 Audi A4 Allroad Quattro 2.0T Premium Tip Qtro",
+      "vin": "WA1UFCFL4DA228838",
+      "url": "https://willyml1979-dotcom.github.io/volvo-cars-victoria-mirror/used/0548f4cd752d.html",
+      "year": 2013,
+      "make": "Audi",
+      "model": "A4",
       "condition": "used",
-      "price": 23294.0,
+      "price": 14494.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2020 Acura RDX SH-AWD A-Spec at",
-      "vin": "5J8TC2H6XLL805632",
-      "url": "https://willyml1979-dotcom.github.io/volvo-cars-victoria-mirror/used/47cd23b74cfe.html",
+      "name": "2018 Audi Q5 2.0T Technik quattro 7sp S Tronic",
+      "vin": "WA1CNAFY2J2041201",
+      "url": "https://willyml1979-dotcom.github.io/volvo-cars-victoria-mirror/used/edfc2e25f834.html",
+      "year": 2018,
+      "make": "Audi",
+      "model": "Q5",
+      "condition": "used",
+      "price": 18494.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2018 Subaru Outback 3.6R Limited w/ Eyesight at",
+      "vin": "4S4BSFNC7J3371502",
+      "url": "https://willyml1979-dotcom.github.io/volvo-cars-victoria-mirror/used/935eb228aaf3.html",
+      "year": 2018,
+      "make": "Subaru",
+      "model": "Outback",
+      "condition": "used",
+      "price": 23000.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2020 Nissan Pathfinder SL Premium V6 4x4 at",
+      "vin": "5N1DR2CM1LC615284",
+      "url": "https://willyml1979-dotcom.github.io/volvo-cars-victoria-mirror/used/5c98b0b58aa4.html",
       "year": 2020,
-      "make": "Acura",
-      "model": "RDX",
+      "make": "Nissan",
+      "model": "Pathfinder",
       "condition": "used",
-      "price": 27994.0,
+      "price": 22994.0,
       "price_currency": "CAD"
     },
     {
@@ -46,7 +68,7 @@
       "make": "Volvo",
       "model": "XC60",
       "condition": "used",
-      "price": 33494.0,
+      "price": 32994.0,
       "price_currency": "CAD"
     },
     {
@@ -57,7 +79,29 @@
       "make": "Ford",
       "model": "F-150 4x4 - Supercab Lariat - 145 WB",
       "condition": "used",
-      "price": 47494.0,
+      "price": 46994.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2021 Volvo XC60 Recharge T8 eAWD Inscription",
+      "vin": "LYVBR0DL0MB706655",
+      "url": "https://willyml1979-dotcom.github.io/volvo-cars-victoria-mirror/used/524b2bf2b8f8.html",
+      "year": 2021,
+      "make": "Volvo",
+      "model": "XC60",
+      "condition": "used",
+      "price": 34494.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2022 Jeep Wrangler Sahara",
+      "vin": "1C4HJXEM9NW187733",
+      "url": "https://willyml1979-dotcom.github.io/volvo-cars-victoria-mirror/used/d0c3a556654e.html",
+      "year": 2022,
+      "make": "Jeep",
+      "model": "Wrangler",
+      "condition": "used",
+      "price": 39494.0,
       "price_currency": "CAD"
     },
     {
@@ -68,18 +112,7 @@
       "make": "Volvo",
       "model": "XC60",
       "condition": "used",
-      "price": 35994.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2022 Volvo XC60 B6 AWD R-Design",
-      "vin": "LYV062RM2NB069458",
-      "url": "https://willyml1979-dotcom.github.io/volvo-cars-victoria-mirror/used/edc984234786.html",
-      "year": 2022,
-      "make": "Volvo",
-      "model": "XC60",
-      "condition": "used",
-      "price": 44494.0,
+      "price": 34994.0,
       "price_currency": "CAD"
     },
     {
@@ -94,6 +127,28 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2023 Volvo S60 B5 AWD Plus - Black Edition",
+      "vin": "7JRL12TT1PG229981",
+      "url": "https://willyml1979-dotcom.github.io/volvo-cars-victoria-mirror/used/8664836c6df2.html",
+      "year": 2023,
+      "make": "Volvo",
+      "model": "S60",
+      "condition": "used",
+      "price": 29994.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2023 Volvo XC90 B6 AWD Ultimate Dark",
+      "vin": "YV4062PXXP1993859",
+      "url": "https://willyml1979-dotcom.github.io/volvo-cars-victoria-mirror/used/9769f798455e.html",
+      "year": 2023,
+      "make": "Volvo",
+      "model": "XC90",
+      "condition": "used",
+      "price": 53494.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2024 Volvo XC90 B6 AWD Core Bright Theme 7-Seater",
       "vin": "YV4062PK5R1165595",
       "url": "https://willyml1979-dotcom.github.io/volvo-cars-victoria-mirror/used/7fe296f876e0.html",
@@ -101,7 +156,7 @@
       "make": "Volvo",
       "model": "XC90",
       "condition": "used",
-      "price": 47994.0,
+      "price": 46494.0,
       "price_currency": "CAD"
     },
     {
@@ -112,7 +167,18 @@
       "make": "Mazda",
       "model": "CX-70 PHEV",
       "condition": "used",
-      "price": 45494.0,
+      "price": 43994.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2025 Volvo XC90 Plug-in Hybrid 2025.5 T8 AWD Plus Bright Theme 7-Seater",
+      "vin": "YV4H60PB6S1350106",
+      "url": "https://willyml1979-dotcom.github.io/volvo-cars-victoria-mirror/used/7ee9e58cda10.html",
+      "year": 2025,
+      "make": "Volvo",
+      "model": "XC90 Plug-In Hybrid",
+      "condition": "used",
+      "price": 72994.0,
       "price_currency": "CAD"
     },
     {
