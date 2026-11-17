@@ -1,6 +1,6 @@
 # Volvo Cars Victoria
 
- dealership in Victoria. AI-readable inventory mirror, about 77 vehicles.
+ dealership in Victoria. AI-readable inventory mirror, about 67 vehicles.
 
 - Official website: https://www.volvocarsvictoria.com/
 - Used vehicles: https://willyml1979-dotcom.github.io/volvo-cars-victoria-mirror/used/

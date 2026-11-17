@@ -1,7 +1,7 @@
 {
   "dealership": "Volvo Cars Victoria",
-  "generated_at": "2026-11-17T10:24:33",
-  "vehicle_count": 77,
+  "generated_at": "2026-11-17T10:52:36",
+  "vehicle_count": 67,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -193,17 +193,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Volvo EX40 Twin Motor AWD Plus",
-      "vin": "YV4ER3HK0T2756131",
-      "url": "https://willyml1979-dotcom.github.io/volvo-cars-victoria-mirror/new/36e53ef62363.html",
-      "year": 2026,
-      "make": "Volvo",
-      "model": "EX40 Twin Motor AWD Plus",
-      "condition": "new",
-      "price": 71117.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Volvo XC40 B5 AWD Plus Dark Theme",
       "vin": "YV4L12UC5T2725819",
       "url": "https://willyml1979-dotcom.github.io/volvo-cars-victoria-mirror/new/9d755823c996.html",
@@ -359,17 +348,6 @@
     },
     {
       "name": "2026 Volvo XC40 B5 AWD Ultra Dark Theme",
-      "vin": "YV4L12UM9T2873965",
-      "url": "https://willyml1979-dotcom.github.io/volvo-cars-victoria-mirror/new/a5faf2b49e2b.html",
-      "year": 2026,
-      "make": "Volvo",
-      "model": "XC40",
-      "condition": "new",
-      "price": 56737.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Volvo XC40 B5 AWD Ultra Dark Theme",
       "vin": "YV4L12UM6T2890237",
       "url": "https://willyml1979-dotcom.github.io/volvo-cars-victoria-mirror/new/8a6d6ad3ffcd.html",
       "year": 2026,
@@ -398,7 +376,7 @@
       "make": "Volvo",
       "model": "XC60 Plug-In Hybrid",
       "condition": "new",
-      "price": 79873.0,
+      "price": 76623.0,
       "price_currency": "CAD"
     },
     {
@@ -446,17 +424,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Volvo XC90 Plug-in Hybrid T8 AWD Ultra Dark Theme 7-Seater",
-      "vin": "YV4H60PM4T1471249",
-      "url": "https://willyml1979-dotcom.github.io/volvo-cars-victoria-mirror/new/817b3e8ba9c5.html",
-      "year": 2026,
-      "make": "Volvo",
-      "model": "XC90 Plug-In Hybrid",
-      "condition": "new",
-      "price": 99052.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Volvo XC90 Plug-in Hybrid T8 AWD Plus Dark Theme 7-Seater",
       "vin": "YV4H60PC2T1540270",
       "url": "https://willyml1979-dotcom.github.io/volvo-cars-victoria-mirror/new/9249fe3cd1fd.html",
@@ -464,7 +431,7 @@
       "make": "Volvo",
       "model": "XC90 Plug-In Hybrid",
       "condition": "new",
-      "price": 88593.0,
+      "price": 92592.0,
       "price_currency": "CAD"
     },
     {
@@ -475,29 +442,7 @@
       "make": "Volvo",
       "model": "XC90",
       "condition": "new",
-      "price": 73993.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Volvo XC90 B6 AWD Ultra Bright Theme 6-Seater",
-      "vin": "YV4062JF0T1442236",
-      "url": "https://willyml1979-dotcom.github.io/volvo-cars-victoria-mirror/new/7720368a961f.html",
-      "year": 2026,
-      "make": "Volvo",
-      "model": "XC90",
-      "condition": "new",
-      "price": 75913.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Volvo XC90 B6 AWD Ultra Dark Theme 7-Seater",
-      "vin": "YV4062PM1T1449623",
-      "url": "https://willyml1979-dotcom.github.io/volvo-cars-victoria-mirror/new/4ff7dd87cd01.html",
-      "year": 2026,
-      "make": "Volvo",
-      "model": "XC90",
-      "condition": "new",
-      "price": 79768.0,
+      "price": 78993.0,
       "price_currency": "CAD"
     },
     {
@@ -509,39 +454,6 @@
       "model": "XC90",
       "condition": "new",
       "price": 79233.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Volvo XC90 B6 AWD Ultra Dark Theme 7-Seater",
-      "vin": "YV4062PM5T1530849",
-      "url": "https://willyml1979-dotcom.github.io/volvo-cars-victoria-mirror/new/eb958f7e32f5.html",
-      "year": 2026,
-      "make": "Volvo",
-      "model": "XC90",
-      "condition": "new",
-      "price": 76568.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Volvo XC90 B6 AWD Ultra Dark Theme 7-Seater",
-      "vin": "YV4062PM7T1505502",
-      "url": "https://willyml1979-dotcom.github.io/volvo-cars-victoria-mirror/new/6f2586310557.html",
-      "year": 2026,
-      "make": "Volvo",
-      "model": "XC90",
-      "condition": "new",
-      "price": 82763.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Volvo XC90 B6 AWD Ultra Bright Theme 6-Seater",
-      "vin": "YV4062JF6T1454679",
-      "url": "https://willyml1979-dotcom.github.io/volvo-cars-victoria-mirror/new/daf878e8671c.html",
-      "year": 2026,
-      "make": "Volvo",
-      "model": "XC90",
-      "condition": "new",
-      "price": 75913.0,
       "price_currency": "CAD"
     },
     {
@@ -755,17 +667,6 @@
     },
     {
       "name": "2027 Volvo XC60 B5 AWD Ultra Dark Theme",
-      "vin": "YV4M22RM9V1540782",
-      "url": "https://willyml1979-dotcom.github.io/volvo-cars-victoria-mirror/new/3a8294eed733.html",
-      "year": 2027,
-      "make": "Volvo",
-      "model": "XC60",
-      "condition": "new",
-      "price": 76692.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 Volvo XC60 B5 AWD Ultra Dark Theme",
       "vin": "YV4M22RMXV1535865",
       "url": "https://willyml1979-dotcom.github.io/volvo-cars-victoria-mirror/new/923c529a6eb5.html",
       "year": 2027,
@@ -795,17 +696,6 @@
       "model": "XC60",
       "condition": "new",
       "price": 70932.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 Volvo XC90 Plug-in Hybrid T8 AWD Ultra Dark Theme 7-Seater",
-      "vin": "YV4HD0PM1V1570894",
-      "url": "https://willyml1979-dotcom.github.io/volvo-cars-victoria-mirror/new/c59a5346bd61.html",
-      "year": 2027,
-      "make": "Volvo",
-      "model": "XC90 Plug-In Hybrid",
-      "condition": "new",
-      "price": 112285.0,
       "price_currency": "CAD"
     },
     {
