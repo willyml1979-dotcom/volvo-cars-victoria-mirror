@@ -1,6 +1,6 @@
 {
   "dealership": "Volvo Cars Victoria",
-  "generated_at": "2026-11-18T20:55:24",
+  "generated_at": "2026-11-18T21:11:28",
   "vehicle_count": 73,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -167,7 +167,7 @@
       "make": "Volvo",
       "model": "EX30",
       "condition": "new",
-      "price": 48457.0,
+      "price": 48917.0,
       "price_currency": "CAD"
     },
     {
@@ -233,7 +233,7 @@
       "make": "Volvo",
       "model": "XC40",
       "condition": "new",
-      "price": 54893.0,
+      "price": 54852.0,
       "price_currency": "CAD"
     },
     {
@@ -244,7 +244,7 @@
       "make": "Volvo",
       "model": "XC40",
       "condition": "new",
-      "price": 52983.0,
+      "price": 54232.0,
       "price_currency": "CAD"
     },
     {
@@ -255,7 +255,7 @@
       "make": "Volvo",
       "model": "XC40",
       "condition": "new",
-      "price": 54488.0,
+      "price": 53488.0,
       "price_currency": "CAD"
     },
     {
